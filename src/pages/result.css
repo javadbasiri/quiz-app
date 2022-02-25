@@ -1,0 +1,25 @@
+.result-container{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.final-score{
+    font-size: 9rem;
+    color: gold;
+}
+
+h4{
+    color: silver;
+}
+
+
+
+
+/* @media screen and (max-width:700px){
+    .result-container{
+        width: 60%;
+    }
+} */
